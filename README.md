@@ -1,2 +1,2 @@
-# test
-test repository
+# SOLID Design Principle
+Design Principle repository
