@@ -1,2 +1,2 @@
-# SOLID Design Principle
-Design Principle repository
+# SOLID Design Principles
+Design Principles repository
